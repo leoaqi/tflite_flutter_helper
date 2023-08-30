@@ -2,6 +2,7 @@
     package="com.example.bert_question_answer">
    <application
         android:label="bert_question_answer"
+        android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
